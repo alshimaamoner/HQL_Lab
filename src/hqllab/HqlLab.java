@@ -35,8 +35,8 @@ public class HqlLab {
   static   Session session = sessionFactory.openSession();
     public static void main(String[] args) {
 
-             // diplayProductByCategory();
-              //displayProductByBids();
+              diplayProductByCategory();
+              displayProductByBids();
               showTotalAmount();
                
                 
